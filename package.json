@@ -1,0 +1,22 @@
+{
+  "name": "@sauravcogncise/my-package",
+  "version": "1.0.0",
+  "description": "Learning to publish package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauravCogncise/my-package.git"
+  },
+  "keywords": [
+    "my-package"
+  ],
+  "author": "Saurav Cogncise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauravCogncise/my-package/issues"
+  },
+  "homepage": "https://github.com/SauravCogncise/my-package#readme"
+}
